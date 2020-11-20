@@ -1,7 +1,5 @@
 import '../styles/globals.css'
 
-function MyApp({ Component, pageProps }) {
+export default function Codigo31({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
-
-export default MyApp
