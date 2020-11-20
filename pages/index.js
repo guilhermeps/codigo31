@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Seja bem vindo à <span className={styles.codigo31}>Código31</span>
+          Seja bem-vindo à <span className={styles.codigo31}>Código31</span>
         </h1>
 
         <p className={styles.description}>
